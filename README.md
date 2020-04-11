@@ -23,6 +23,18 @@ https://github.com/nychealth/coronavirus-data
 
 ---
 
-**Rates by Age Group**
+**Rates by age group**
 
 ![Rates by Age Group](https://makersportal.com/s/AGE_GROUP_in_nyc_white.png)
+
+---
+
+**Rates by sex group**
+
+![Rates by Sex Group](https://makersportal.com/s/SEX_GROUP_in_nyc_white.png)
+
+---
+
+**Rates by NYC Borough**
+
+![Rates by Borough](https://makersportal.com/s/COVID_CASE_COUNT_spatial_plot_white.png)
