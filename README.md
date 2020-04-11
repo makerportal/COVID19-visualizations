@@ -11,5 +11,10 @@ The data was specifically parsed from the Health Department's Github page:
 https://github.com/nychealth/coronavirus-data
 
 ## Example Visualizations
+Zip code rates in NYC:
 
 ![Zip Code Data](https://makersportal.com/s/MODZCTA_in_nyc_COVID19_white.png)
+
+Time-series cases and rates:
+
+![Time Series Cases and Rates](https://makersportal.com/s/DATE_OF_INTEREST_in_NYC_COVID19_white.png)
