@@ -1,6 +1,8 @@
 # COVID19 Visualizations in Python
 Using Python to visualize various datasets relating to COVID-19 in New York City. Analyses include: plotting rates by age and sex, geographic maps by zip code, and time-series plots with logarithmic axes.
 
+FULL TUTORIAL AT: https://makersportal.com/blog/2020/4/5/visualizing-covid-19-data-in-python
+
 ## Data Sources
 All data was taken from New York City's Health Department:
 
