@@ -87,3 +87,4 @@ txtbox = ax.text(0.0, 0.025, 'Computed on '+datetime.datetime.now().strftime('%b
         verticalalignment='center', bbox=dict(boxstyle='round', facecolor='w',alpha=0.5)) 
 txtbox.set_x(1.0-(txtbox.figure.bbox.bounds[2]-(txtbox.clipbox.bounds[2]-txtbox.clipbox.bounds[0]))/txtbox.figure.bbox.bounds[2])
 fig.savefig(header[header_to_plot]+'_spatial_plot.png',dpi=300)
+plt.show()
