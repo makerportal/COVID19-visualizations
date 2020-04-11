@@ -12,4 +12,4 @@ https://github.com/nychealth/coronavirus-data
 
 ## Example Visualizations
 
-![Zip Code Data](https://static1.squarespace.com/static/59b037304c0dbfb092fbe894/5e91ef0d66487a35303150c0/5e91ef49a995111f921d4500/1586622399815/MODZCTA_in_nyc_COVID19.png?format=1500w
+![Zip Code Data](https://static1.squarespace.com/static/59b037304c0dbfb092fbe894/5e91ef0d66487a35303150c0/5e91ef49a995111f921d4500/1586622399815/MODZCTA_in_nyc_COVID19.png?format=1500w)
