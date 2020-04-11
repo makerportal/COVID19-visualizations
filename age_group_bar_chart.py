@@ -41,3 +41,4 @@ txtbox = ax.text(0.0, 0.975, 'Computed on '+datetime.datetime.now().strftime('%b
         verticalalignment='center', bbox=dict(boxstyle='round', facecolor='w',alpha=0.5)) 
 txtbox.set_x(1.0-(txtbox.figure.bbox.bounds[2]-(txtbox.clipbox.bounds[2]-txtbox.clipbox.bounds[0]))/txtbox.figure.bbox.bounds[2])
 fig.savefig(header[0]+'_in_nyc.png',dpi=300,facecolor='#FCFCFC',bbox_inches = 'tight')
+plt.show()
